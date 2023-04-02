@@ -33,7 +33,7 @@ To allow third-party shortcuts from outside the Gallery to run on your iPhone, i
 - On your iOS or iPadOS device, go to _Settings_  \> _Shortcuts_ and then turn on _Private Sharing_.
 - On your Mac, choose _Shortcuts_ \> _Settings_ from the menu bar (at the top of the screen). In the _General_ pane, select _Private Sharing_.
 
-Next, [download the ChatGPT Siri Shortcut here](https://www.icloud.com/shortcuts/dffe220d603d4bb490c8ad4f1cf4e3f6 "Ask AI") and add it to your Shortcuts app.
+Next, [download the ChatGPT Siri Shortcut here](https://www.icloud.com/shortcuts/1675a399a3b14894a6da848b21074edb "Ask AI") and add it to your Shortcuts app.
 
 Then, you need to answer three questions to initialize the shortcut. Skipping this setup will prevent you from using the shortcut correctly.
 
